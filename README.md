@@ -4,6 +4,7 @@ Current Notes of Importance
 - Where this states 'Scores' or 'Systems' this is implied to mean 'Create/Use your Own'.
 - I have explicitly stated this throughout
 - This document will likely be out of date by the time you read it
+- This document is for my organisation, which isn't formally incorporated. Additionally, these cited references are not covered in this documentation and are referring to internal documents you can't see (sorry)
 
 I am not responsible for your actions, or the consequences of your actions. Yes this seems overkill, but I need this system to be able to scale. This current version is the first draft, it should be taken as a template and changed based on scenarios.
 
